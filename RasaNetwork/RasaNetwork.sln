@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0DE23092-3989-4180-8625-2324A9751C6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RasaNetwork.Account", "src\RasaNetwork.Account\RasaNetwork.Account.csproj", "{27742857-8F99-44C2-A1DF-CCB45FD14D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RasaNetwork.Game", "src\RasaNetwork.Game\RasaNetwork.Game.csproj", "{547BD6C8-7927-4CDB-8F3D-A94343BF2C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27742857-8F99-44C2-A1DF-CCB45FD14D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27742857-8F99-44C2-A1DF-CCB45FD14D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27742857-8F99-44C2-A1DF-CCB45FD14D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27742857-8F99-44C2-A1DF-CCB45FD14D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547BD6C8-7927-4CDB-8F3D-A94343BF2C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547BD6C8-7927-4CDB-8F3D-A94343BF2C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547BD6C8-7927-4CDB-8F3D-A94343BF2C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547BD6C8-7927-4CDB-8F3D-A94343BF2C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{27742857-8F99-44C2-A1DF-CCB45FD14D32} = {0DE23092-3989-4180-8625-2324A9751C6E}
+		{547BD6C8-7927-4CDB-8F3D-A94343BF2C12} = {0DE23092-3989-4180-8625-2324A9751C6E}
+	EndGlobalSection
+EndGlobal
