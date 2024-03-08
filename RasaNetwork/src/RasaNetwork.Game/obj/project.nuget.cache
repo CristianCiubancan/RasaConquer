@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "QXpufGB5xqlV3SYMYrBDhjaXAwRC23P8OoUBY28s4/Xxt3pJy+N548Bp3n6r4ruUcmcTDSDecyhShnRBGmI8ig==",
+  "dgSpecHash": "CYPCGI0RG1m1ZZc5Bk+xPGnMhy1B/4x3kayTYtwFN0SfHtq236VNVNU8U3OKMnfM09oJ8aSy2RjlGKWUGLnoeg==",
   "success": true,
-  "projectFilePath": "/Users/employee/Desktop/RasaConquer/RasaNetwork/src/RasaNetwork.Game/RasaNetwork.Game.csproj",
+  "projectFilePath": "C:\\Users\\CRSGRS\\Desktop\\COnquer_6090\\RasaConquer-1\\RasaNetwork\\src\\RasaNetwork.Game\\RasaNetwork.Game.csproj",
   "expectedPackageFiles": [
-    "/Users/employee/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "/Users/employee/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
-    "/Users/employee/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
-    "/Users/employee/.nuget/packages/stackexchange.redis/2.7.27/stackexchange.redis.2.7.27.nupkg.sha512",
-    "/Users/employee/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512",
-    "/Users/employee/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
-    "/Users/employee/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\CRSGRS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\CRSGRS\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\CRSGRS\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\CRSGRS\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\CRSGRS\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\CRSGRS\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\CRSGRS\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
