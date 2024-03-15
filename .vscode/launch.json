@@ -31,12 +31,19 @@
       "type": "coreclr",
       "request": "attach",
       "processId": "${command:pickProcess}"
+    },
+    {
+      "name": "Launch Brain",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/RasaBrain/dist/index.js",
+      "console": "integratedTerminal"
     }
   ],
   "compounds": [
     {
       "name": "Launch Rasa",
-      "configurations": ["Launch Account", "Launch Game"]
+      "configurations": ["Launch Account", "Launch Game", "Launch Brain"]
     }
   ]
 }
